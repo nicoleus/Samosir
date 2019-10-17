@@ -149,15 +149,7 @@ class shit3:
       print green+"([2]} Samosir "+c+"To "+g+" Batak"
       self.sug(w+'-'*42)
       print green+"([00])} Back..HORAS.."
- if
-[ $mrrm = 81 ] || [ $mrrm = 81 ]
-then
-clear
-toilet -f slant --gay "LiteSpam"
-echo "\033[34;1mContact:""\033[37;1m https://fb.me/Ijen Sinaga"
-
-
-sleep 1
+  sleep 1
 echo "\033[35;1mPemograman:""\033[36;1m Bash"
 
 echo "\033[33;1mKarya: IM81"
@@ -182,18 +174,6 @@ sleep 1
 echo "And All Member Indonesia Security Lite"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-sh LITESPAMc.sh
-fi
-
-
-
-if
-[ $mrrm = 0 ] || [ $mrrm = 0 ]
-then
-echo "\033[31;1m Keluar"
-sleep 1
-echo "\033[32;1m Horas Sampai berjumpa lagi :)"
-sleep 1
       
       self.check() 
       
