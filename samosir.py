@@ -168,8 +168,6 @@ class shit3:
       print green+"([2]} Samosir "+c+"To "+g+" Batak"
       self.sug(w+'-'*42)
       print green+"([00])} Back..HORAS.."
-      self.sug(w+'-'*42)
-      print green+"([##])} HORAS HITA SUDE..."+c+"To "+g+"Samosir
 
  
 
