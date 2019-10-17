@@ -138,10 +138,10 @@ class shit3:
           print
           time.sleep(1)
           self.check()
-       #somalia
+       #samosir
   def s(self,me,you):
       print
-      com = raw_input(green+'[🎩]Set Words : ')
+      com = raw_input(green+'[🎩]your destination: ')
       print
       try:
           self.en = "http://translate.google.com/m?hl=en&sl="+me+"&tl="+you+"&ie=windows-1256&prev=_m&q="+com
