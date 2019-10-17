@@ -169,6 +169,8 @@ class shit3:
       self.sug(w+'-'*42)
       print green+"([00])} Back..HORAS.."
 
+      self.sug(g + '#' + c + 'HORAS HITA SUDE!!')
+
  
       
       self.check() 
