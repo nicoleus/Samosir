@@ -149,8 +149,7 @@ class shit3:
       print green+"([2]} Samosir "+c+"To "+g+" Batak"
       self.sug(w+'-'*42)
       print green+"([00])} Back..HORAS.."
-   
-if
+ if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
@@ -173,7 +172,7 @@ echo "\033[36;1m"
 echo "Ijen Sinaga"
 echo "Mr.Wreck"
 echo "BatakCyber"
-echo "Samosir Team"
+echo "Armando Siburian"
 echo "COOL hACKER"
 echo "Hottua Haro"
 echo "SAMOSIR_TEAM Indonesia"
@@ -195,7 +194,6 @@ echo "\033[31;1m Keluar"
 sleep 1
 echo "\033[32;1m Horas Sampai berjumpa lagi :)"
 sleep 1
-fi
       
       self.check() 
       
