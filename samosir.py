@@ -72,6 +72,24 @@ class shit3:
       os.system('clear')
       ft = self.sug
       log = """
+
+   __banner__ = """
+       +=======================================+
+       |..........Facebook Cracker v 1.........|
+       +---------------------------------------+
+       |#Author: Nicoleus Sitorus <            |
+       |#Contact: Nicoleus Sitorus             |
+       |#Date: Fri sep 14 12:34:49 2019        |
+       |#This tool is made for pentesting.     |
+       |#Changing the description of this tool |
+       |Won't made you the coder ^_^ !!!       |
+       |#Respect Coderz ^_^                    |
+       |#I take no responsibilities for the    |
+       |  use of this program !                |
+       +=======================================+
+       |..........Facebook Cracker v 1.........|
+       +---------------------------------------+
+"""
    
  
    ██████╗ ███████╗███╗   ██╗████████╗ █████╗
