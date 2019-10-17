@@ -90,8 +90,6 @@ class shit3:
       self.sug(g + 'Open Source : ' + c + 'Yes')
       self.sug(g + 'Developer : ' + c + 'Nicoleus Sitorus... Oooo Yeee')  
       self.sug(g + 'The Pleace : Samosir, Nauli')
-     clear
-toilet -f slant --gay "Nicoleus"
       self.sug(g + 'HORAS Indonesia Security Lite')
       self.sug(g + 'Subscribe YouTube')
       self.sug(g + 'Spesial Thanks To:')
