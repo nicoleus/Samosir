@@ -149,31 +149,8 @@ class shit3:
       print green+"([2]} Samosir "+c+"To "+g+" Batak"
       self.sug(w+'-'*42)
       print green+"([00])} Back..HORAS.."
-  sleep 1
-echo "\033[35;1mPemograman:""\033[36;1m Bash"
 
-echo "\033[33;1mKarya: IM81"
-sleep 1
-echo "\033[32;1mVersi: v3"
-sleep 1
-echo "\033[36;1mTeam:  HORAS Indonesia Security Lite"
-sleep 1
-echo "\033[31;1mSubscribe YouTube""\033[37;1m HeXeRz"
-echo "\033[35;1m Spesial Thanks To: "
-echo "\033[36;1m"
-echo "Ijen Sinaga"
-echo "Mr.Wreck"
-echo "BatakCyber"
-echo "Armando Siburian"
-echo "COOL hACKER"
-echo "Hottua Haro"
-echo "SAMOSIR_TEAM Indonesia"
-echo "BATAK_NESE Security"
-echo "Association Batak Indonesian Right Wings"
-sleep 1
-echo "And All Member Indonesia Security Lite"
-echo "\033[30;1m tunggu 8 detik"
-sleep 8
+ 
       
       self.check() 
       
