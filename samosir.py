@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # coding=utf-8 
 
-#Writen By :Cabdulahi Sharif
+#Writen By :Nicoleus Sitorus
 """ Github :Https://github.com/nicoleus
 Youtube channel : ady sitorus ady
 facebook  : Nicoleus Sitorus
@@ -72,24 +72,25 @@ class shit3:
       os.system('clear')
       ft = self.sug
       log = """
-    ▄▀▀ ▄▀▄ █▄─▄█ ▄▀▄ █── ▀ ▄▀▄ Ver:v1
-    ─▀▄ █─█ █─█─█ █▀█ █─▄ █ █▀█. @Mod:Py
+     Ver:v1
+    ─▀▄ █─█ █─█─█ █▀█ █─▄ █ █▀█. ###Nicoleus
     ▀▀─ ─▀─ ▀───▀ ▀─▀ ▀▀▀ ▀ ▀─▀"""
       print log
       self.sug(w + '-' * 42)
       time.sleep(0.33)
-      self.sug(g + 'YouTube Channel :' + c + 'Somali 4You')
+      self.sug(g + 'YouTube Channel :' + c + 'ady sitorus ady')
       self.sug(g + 'Tool Type :' + c + 'Google Translate')
-      self.sug(g + 'Github  : ' + c + 'https://github.com/Cabdulahi')
-      self.sug(g + 'Facebook  : ' + c + 'cabdulahi.sharif.100')
+      self.sug(g + 'Github  : ' + c + 'https://github.com/nicoleus')
+      self.sug(g + 'Facebook  : ' + c + 'Nicoleus Sitorus')
       self.sug(g + 'Open Source : ' + c + 'Yes')
-      self.sug(g + 'Developer : ' + c + 'Cabdulahi Sharif Gsm')
+      self.sug(g + 'Developer : ' + c + 'Nicoleus Sitorus... Oooo Yeee')  
+      self.sug(g + 'The Pleace : Samosir, Nauli') 
       time.sleep(1)
       print '-'*42
       self.sug(w + '-' * 42)
-      print green+"([1]} English "+c+"To "+g+" Somali"
+      print green+"([1]} Batak "+c+"To "+g+" Samosir"
       self.sug(w+'-'*42)
-      print green+"([2]} Somali "+c+"To "+g+" English"
+      print green+"([2]} Samosir "+c+"To "+g+" Batak"
       self.sug(w+'-'*42)
       print green+"([0])} GoodBye"
       self.sug(w+'-'*42)
@@ -138,11 +139,11 @@ class shit3:
   def call(self):
       time.sleep(1.5)
       self.sug(w+'-'*42)
-      print green+"([1]} English "+c+"To "+g+" Samosir"
+      print green+"([1]} Batak "+c+"To "+g+" Samosir"
       self.sug(w+'-'*42)
-      print green+"([2]} Samosir "+c+"To "+g+" English"
+      print green+"([2]} Samosir "+c+"To "+g+" Batak"
       self.sug(w+'-'*42)
-      print green+"([00])} Back"
+      print green+"([00])} Back..HORAS.."
       
       self.check() 
       
