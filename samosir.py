@@ -8,7 +8,7 @@ facebook  : Nicoleus Sitorus
 The Place : Samosir, Danau Toba Nauli
 """
 import requests,time,os,sys
-import bs4,re,urllib
+import bs4
 import BeautifulSoup as soup
 
 r = '\x1b[31;1m'
